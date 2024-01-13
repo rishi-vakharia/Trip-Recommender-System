@@ -1,6 +1,6 @@
-## Trip Recommender System
+## NextStop: Trip Recommender System
 
-- Give the list of cities you visited --> get the list of cities you should visit next.
+- Give the list of cities you visited and get the list of cities you should visit next.
 
 ### Dataset
 
@@ -36,17 +36,17 @@
 
 #### For the user input:
 
-![Alt text](output_ss/image.png)
+![Alt text](screenshots/image.png)
 
 #### Output of item-based collaborative filtering:
 
-![Alt text](output_ss/image-1.png)
+![Alt text](screenshots/image-1.png)
 
 #### Output of user-based collaborative filtering:
 
-![Alt text](output_ss/image-2.png)
+![Alt text](screenshots/image-2.png)
 
 #### Output of content based filtering:
 
-![Alt text](output_ss/image-3.png)
+![Alt text](screenshots/image-3.png)
 
